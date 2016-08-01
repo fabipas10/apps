@@ -1,1 +1,1 @@
-select*from persona
+select*from personassss
